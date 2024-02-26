@@ -1,7 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/564x/51/f0/7a/51f07a9274c577f6df844fe1f579fe0c.jpg))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ayoub</h1>
 <h3 align="center">A computer science survivor at USTHB Algiers</h3>
-img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif](https://i.pinimg.com/originals/7b/58/9d/7b589db94cdb307edc079f8b3bbabc09.gif)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubchemli&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubchemli" /> </p>
 
