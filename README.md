@@ -1,5 +1,5 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/51/f0/7a/51f07a9274c577f6df844fe1f579fe0c.png
-))](https://rishavchanda.io)
+)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ayoub</h1>
 <h3 align="center">A computer science survivor at USTHB Algiers</h3>
 
