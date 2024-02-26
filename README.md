@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ayoubchemli
-- 🌱 I’m currently learning computer science
-- 📫 How to reach me.. by mail: chemliayoub414@gmail.com
+- 👋 Hi, I’m Ayoub.. a CS student at usthb
+- 📫 How to reach me? by mail: chemliayoub414@gmail.com
 - ⚡ Fun fact: I'm taller than u XD
 
 <!---
