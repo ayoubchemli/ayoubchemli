@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubchemli&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubchemli" /> </p>
 
-- 📫 How to reach me? **by mail: chemliayoub414@gmail.com**
+- 📫 How to reach me? **by mail: ayoubchemli@gmail.com**
 
 - ⚡ Fun fact **I'm taller than u XD**
 
